@@ -1,0 +1,63 @@
+body{
+    background-color:white; 
+    font: 20%;
+    border:1px solid black ;  
+}
+
+h1{
+   color: black;
+   text-align: center;
+}
+h2{
+    background-color:  rgb(177, 197, 221);
+    border: 1px solid black;
+    width:15%;
+    color: black;
+
+   
+}
+h3{
+    color: black;
+}
+
+.header{
+    background-color: rgb(169, 186, 206);
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 3%;
+    height: auto;
+    border: 1px solid black;
+    
+}
+
+ ul {
+    text-align: center;
+ }
+ 
+  .summary{
+      margin-left: 30px;
+      height: auto;
+      
+  }   
+   
+
+
+.info{
+    background-color:rgb(169, 186, 206) ;
+    width: 300px;
+    text-align: center;
+    float: right;
+    height: auto;
+    margin-right: 7%;
+    margin-top: 0px;
+    height: auto;
+    border: 1px solid black;
+}
+
+.p{
+    margin-left: 30px;
+    padding: 5px;
+    height: auto;
+    margin-right: 30px;
+}
+
